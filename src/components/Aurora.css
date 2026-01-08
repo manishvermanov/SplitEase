@@ -1,0 +1,6 @@
+.aurora-container {
+  position: absolute;
+  inset: 0;          /* full-bleed */
+  pointer-events: none;
+  z-index: -1;       /* behind your content */
+}
